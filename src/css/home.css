@@ -1,0 +1,9 @@
+.background{
+    /* background-image: url('../assets/background.jpg'); */
+    background-image: url('https://thumbs.dreamstime.com/z/concept-online-shopping-smartphone-white-background-mock-up-top-view-97934713.jpg?ct=jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
